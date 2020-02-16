@@ -1,6 +1,6 @@
 This is a capstone project from the web development path on Codecademy. I have
 more original personal projects in the making and on their way! The
-purpose of this repository is to simply showcase what I have learned. I am a
+purpose of this repository is simply to showcase what I have learned. I am a
 current software engineering college student.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
